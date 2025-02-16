@@ -31,4 +31,4 @@
   * [CERTIFICADOS DE PROFESIONALIDAD](certificaciones/cursos-sepe/certificados-de-profesionalidad.md)
   * [CURSOS FAMILIA IFCT](certificaciones/cursos-sepe/cursos-familia-ifct/README.md)
     * [IFCT0087 - SEGURIDAD BASICA DIGITAL](certificaciones/cursos-sepe/cursos-familia-ifct/ifct0087-seguridad-basica-digital/README.md)
-      * [Page 1](certificaciones/cursos-sepe/cursos-familia-ifct/ifct0087-seguridad-basica-digital/page-1.md)
+      * [FUNDAMENTOS](certificaciones/cursos-sepe/cursos-familia-ifct/ifct0087-seguridad-basica-digital/fundamentos.md)
